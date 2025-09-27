@@ -31,7 +31,7 @@ jobs:
           - mipsel_24kc
           
         sdk:
-          - 24.10.2
+          - 24.10.3
           - SNAPSHOT
 
     steps:
