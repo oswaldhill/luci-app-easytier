@@ -28,7 +28,7 @@ jobs:
       fail-fast: false
       matrix:
         arch:
-          - mipsel_24kc
+          - x86_64
           
         sdk:
           - 24.10.3
